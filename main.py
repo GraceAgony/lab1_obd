@@ -144,10 +144,10 @@ def select(table, key=None):
 
 def menu():
     print ("Choose option:")
-    print ("1. SELECT ")
-    print ("2. DELETE ")
-    print ("3. INSERT ")
-    print ("4. UPDATE ")
+    print ("1. select from table ")
+    print ("2. delete ")
+    print ("3. insert ")
+    print ("4. update item ")
     print ("5. Show the best athletes ")
     print ("6. Exit")
     selection = raw_input()
